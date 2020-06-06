@@ -18,10 +18,10 @@ Usage of WH-Cyberspace Hacking Tool for attacking targets without prior mutual  
 
 ☆ Net framework 3.5  [Here  3.5 ]( https://www.microsoft.com/en-us/download/confirmation.aspx?id=21 "Net framework 3.5 ")
 
-☆ java > jdk & jre [Here]( https://raw.githubusercontent.com/wh-r47/java/master/jre-whbot.exe " JAVA JRE")
+☆ java jre > [Here]( https://raw.githubusercontent.com/wh-r47/java/master/jre-whbot.exe " JAVA JRE")
 
 
-# 💿 SYSTEM TEST
+# 💿 SYSTEM TEST X64 & X86
 1. Windows 10   [ Recommended System ]  
 
 2. Windows 8.1
@@ -73,7 +73,7 @@ default payment section ( BITCOIN )
 
  ☆ how to use in pc ⏬
  
-🏳 [WH-ApkCrypter v2 with Extra Features | google play protect Bypass 100% | wh-Cyberspace [windows]]( https://youtu.be/9hC7tVHIi4s "WH-ApkCrypter v2 | google play protect Bypass 100% | wh-Cyberspace ( windows PC ) ") 
+🏳 [WH-Encryptor Android + Windows with Extra tools and Features | antivirus Bypass 99% | wh-Cyberspace [windows]]( https://youtu.be/9hC7tVHIi4s "WH-Encryptor Android + Windows with Extra tools and Features | antivirus Bypass 99% | wh-Cyberspace ( windows PC ) ") 
 
 
 
