@@ -84,15 +84,15 @@ default payment section ( BITCOIN )
 
 
 
-[![IMAGE 1](https://raw.githubusercontent.com/wh-Cyberspace/WH-Encryptor/master/img/1.png)](https://www.youtube.com/channel/UCj6ekUzjItnjP6T7I9r1WMA?sub_confirmation=1 "WH-ApkCrypter v2 | google play protect Bypass 100% | wh-Cyberspace( PC )")
+[![IMAGE 1](https://raw.githubusercontent.com/wh-Cyberspace/WH-Encryptor/master/img/1.png)](https://www.youtube.com/channel/UCj6ekUzjItnjP6T7I9r1WMA?sub_confirmation=1 "Don't upload payload inbuilt Antivirus website")
 
-[![IMAGE 1](https://raw.githubusercontent.com/wh-Cyberspace/WH-Encryptor/master/img/2.png)](https://www.youtube.com/channel/UCj6ekUzjItnjP6T7I9r1WMA?sub_confirmation=1 "WH-ApkCrypter v2 | google play protect Bypass 100% | wh-Cyberspace( PC )")
+[![IMAGE 1](https://raw.githubusercontent.com/wh-Cyberspace/WH-Encryptor/master/img/2.png)](https://www.youtube.com/channel/UCj6ekUzjItnjP6T7I9r1WMA?sub_confirmation=1 "Don't upload payload inbuilt Antivirus website")
 
-[![IMAGE 1](https://raw.githubusercontent.com/wh-Cyberspace/WH-Encryptor/master/img/3.png)](https://www.youtube.com/channel/UCj6ekUzjItnjP6T7I9r1WMA?sub_confirmation=1 "WH-ApkCrypter v2 | google play protect Bypass 100% | wh-Cyberspace ( PC )")
+[![IMAGE 1](https://raw.githubusercontent.com/wh-Cyberspace/WH-Encryptor/master/img/3.png)](https://www.youtube.com/channel/UCj6ekUzjItnjP6T7I9r1WMA?sub_confirmation=1 "Don't upload payload inbuilt Antivirus website")
 
-[![IMAGE 1](https://raw.githubusercontent.com/wh-Cyberspace/WH-Encryptor/master/img/4.png)](https://www.youtube.com/channel/UCj6ekUzjItnjP6T7I9r1WMA?sub_confirmation=1 "WH-ApkCrypter v2 | google play protect Bypass 100% | wh-Cyberspace ( PC )")
+[![IMAGE 1](https://raw.githubusercontent.com/wh-Cyberspace/WH-Encryptor/master/img/4.png)](https://www.youtube.com/channel/UCj6ekUzjItnjP6T7I9r1WMA?sub_confirmation=1 "Don't upload payload inbuilt Antivirus website")
 
-[![IMAGE 1](https://raw.githubusercontent.com/wh-Cyberspace/WH-Encryptor/master/img/5.png)](https://www.youtube.com/channel/UCj6ekUzjItnjP6T7I9r1WMA?sub_confirmation=1 "WH-ApkCrypter v2 | google play protect Bypass 100% | wh-Cyberspace ( PC )")
+[![IMAGE 1](https://raw.githubusercontent.com/wh-Cyberspace/WH-Encryptor/master/img/5.png)](https://www.youtube.com/channel/UCj6ekUzjItnjP6T7I9r1WMA?sub_confirmation=1 "Don't upload payload inbuilt Antivirus website")
 
 
 
