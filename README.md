@@ -62,6 +62,19 @@ default payment section ( BITCOIN )
 
 
 ------------------------------------------------------------------------------------------------------------------------------
+# Virus Total INFO..
+
+WINDOWS [Here]( https://www.virustotal.com/gui/file/9c715433783f128240c8a3c00538d1e4f8ec724fb070f54ab750f9856ee79ea0/detection " WINDOWS INFO")
+
+ANDROID [Here]( https://www.virustotal.com/gui/file/896dcd2f4b832629421a1b4c50d39f46cac7af633b5acd846323d40499357e06/detection " ANDROID INFO")
+
+# 🌌 Screenshot:
+
+
+
+[![IMAGE 1](https://raw.githubusercontent.com/wh-Cyberspace/WH-Encryptor/master/img/Screenshot_2020-05-28%20VirusTotal.png)](https://www.virustotal.com/gui/file/9c715433783f128240c8a3c00538d1e4f8ec724fb070f54ab750f9856ee79ea0/detection "Don't upload payload inbuilt Antivirus website")
+
+[![IMAGE 1](https://raw.githubusercontent.com/wh-Cyberspace/WH-Encryptor/master/img/Screenshot_2020-06-06%20VirusTotal.png)](https://www.virustotal.com/gui/file/896dcd2f4b832629421a1b4c50d39f46cac7af633b5acd846323d40499357e06/detection "Don't upload payload inbuilt Antivirus website")
 
 
 
