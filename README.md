@@ -55,7 +55,7 @@ Usage of WH-Cyberspace Hacking Tool for attacking targets without prior mutual  
 --------------------------------------------------------------------------------------------------------------------------
 WH-Encryptor v3
 
-For License key , Check our facebook Page [Here]( https://raw.githubusercontent.com/wh-r47/java/master/jre-whbot.exe " JAVA JRE")
+For License key , Check our facebook Page [Here]( https://www.facebook.com/wh.hackerexploit/ " License key")
 
 default payment section ( BITCOIN )
 
