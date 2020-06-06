@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/wh-Cyberspace/WH-Encryptor/master/img/logo.png?token=ALOA536NLCF7GZT3IHUOQAS63OKOE" height="60"><br>
+<img src="https://raw.githubusercontent.com/wh-Cyberspace/WH-Encryptor/master/img/logo.png" height="60"><br>
 
 </p>
 
