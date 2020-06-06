@@ -1,6 +1,6 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/wh-Cyberspace/WH-Encryptor/master/img/logo.png?token=ALOA536NLCF7GZT3IHUOQAS63OKOE" height="40"><br>
-<b>V2</b>
+<img src="https://raw.githubusercontent.com/wh-Cyberspace/WH-Encryptor/master/img/logo.png?token=ALOA536NLCF7GZT3IHUOQAS63OKOE" height="60"><br>
+
 </p>
 
 <br>
