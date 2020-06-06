@@ -34,18 +34,33 @@ Usage of WH-Cyberspace Hacking Tool for attacking targets without prior mutual  
 
 # 💡 HOW TO download and run in WINDOWS
 
-1. Download Zip file https://github.com/wh-Cyberspace/WH-ApkCrypter-V2/archive/master.zip
+1. Download Zip file https://github.com/wh-Cyberspace/WH-Encryptor/archive/master.zip
+
 2. Open up Windows directory
 
-3. Now, Unzip your download file (WH-ApkCrypter-V2-master.zip) 
+3. Now, Unzip your download file (WH-Encryptor-master.zip) 
 
 4. and open directory
 
-5. now , windows defender turn off real time protection [ optional ]
+5. now , windows defender turn off real time protection 
 
-6. and run ( WH-Apkcrypter-v2.1.exe )
+6. and run ( WH-Encryptor.exe )
+
+7. accept license agreement and extract
+
+8. now Run ( WH Encryptor.exe)
  
 
+--------------------------------------------------------------------------------------------------------------------------
+WH-Encryptor v3
+
+For License key , Check our facebook Page [Here]( https:// www.facebook.com/wh.hackerexploit "facebook Page")
+
+default payment section ( BITCOIN )
+
+
+
+------------------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -54,8 +69,6 @@ Usage of WH-Cyberspace Hacking Tool for attacking targets without prior mutual  
 # 💡 How To Use ? YOUTUBE VIDEO ⬇ 
  
  
- 
-
 
  ☆ how to use in pc ⏬
  
