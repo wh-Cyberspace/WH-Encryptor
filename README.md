@@ -86,7 +86,7 @@ ANDROID [Here]( https://www.virustotal.com/gui/file/896dcd2f4b832629421a1b4c50d3
 
  ☆ how to use in pc ⏬
  
-🏳 [WH-Encryptor Android + Windows with Extra tools and Features | antivirus Bypass 99% | wh-Cyberspace [windows]]( https://youtu.be/9hC7tVHIi4s "WH-Encryptor Android + Windows with Extra tools and Features | antivirus Bypass 99% | wh-Cyberspace ( windows PC ) ") 
+🏳 [WH-Encryptor Android + Windows with Extra tools and Features | antivirus Bypass 99% | wh-Cyberspace [windows]]( https://youtu.be/ZHAtKrWikw4 "WH-Encryptor Android + Windows with Extra tools and Features | antivirus Bypass 99% | wh-Cyberspace ( windows PC ) ") 
 
 
 
