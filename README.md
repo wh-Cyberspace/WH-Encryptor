@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/wh-Cyberspace/WH-Encryptor/master/img/logo.png?token=ALOA536KHJDWI2UXVU6HGPS63OL3Q" height="60"><br>
+<img src="https://raw.githubusercontent.com/wh-Cyberspace/WH-Encryptor/master/img/logo.png" height="60"><br>
 
 </p>
 
@@ -84,15 +84,15 @@ default payment section ( BITCOIN )
 
 
 
-[![IMAGE 1](https://raw.githubusercontent.com/wh-Cyberspace/WH-Encryptor/master/img/1.png?token=ALOA53ZM7IKPFAWZM267NIK63OKSI)](https://www.youtube.com/channel/UCj6ekUzjItnjP6T7I9r1WMA?sub_confirmation=1 "WH-ApkCrypter v2 | google play protect Bypass 100% | wh-Cyberspace( PC )")
+[![IMAGE 1](https://raw.githubusercontent.com/wh-Cyberspace/WH-Encryptor/master/img/1.png)](https://www.youtube.com/channel/UCj6ekUzjItnjP6T7I9r1WMA?sub_confirmation=1 "WH-ApkCrypter v2 | google play protect Bypass 100% | wh-Cyberspace( PC )")
 
-[![IMAGE 1](https://raw.githubusercontent.com/wh-Cyberspace/WH-Encryptor/master/img/2.png?token=ALOA532IAEX5RXEEYXQPITS63OKTU)](https://www.youtube.com/channel/UCj6ekUzjItnjP6T7I9r1WMA?sub_confirmation=1 "WH-ApkCrypter v2 | google play protect Bypass 100% | wh-Cyberspace( PC )")
+[![IMAGE 1](https://raw.githubusercontent.com/wh-Cyberspace/WH-Encryptor/master/img/2.png)](https://www.youtube.com/channel/UCj6ekUzjItnjP6T7I9r1WMA?sub_confirmation=1 "WH-ApkCrypter v2 | google play protect Bypass 100% | wh-Cyberspace( PC )")
 
-[![IMAGE 1](https://raw.githubusercontent.com/wh-Cyberspace/WH-Encryptor/master/img/3.png?token=ALOA5343LOGZOGPL5NAZR3K63OKUS)](https://www.youtube.com/channel/UCj6ekUzjItnjP6T7I9r1WMA?sub_confirmation=1 "WH-ApkCrypter v2 | google play protect Bypass 100% | wh-Cyberspace ( PC )")
+[![IMAGE 1](https://raw.githubusercontent.com/wh-Cyberspace/WH-Encryptor/master/img/3.png)](https://www.youtube.com/channel/UCj6ekUzjItnjP6T7I9r1WMA?sub_confirmation=1 "WH-ApkCrypter v2 | google play protect Bypass 100% | wh-Cyberspace ( PC )")
 
-[![IMAGE 1](https://raw.githubusercontent.com/wh-Cyberspace/WH-Encryptor/master/img/4.png?token=ALOA533XFIIUYVODODE2G7263OKV6)](https://www.youtube.com/channel/UCj6ekUzjItnjP6T7I9r1WMA?sub_confirmation=1 "WH-ApkCrypter v2 | google play protect Bypass 100% | wh-Cyberspace ( PC )")
+[![IMAGE 1](https://raw.githubusercontent.com/wh-Cyberspace/WH-Encryptor/master/img/4.png)](https://www.youtube.com/channel/UCj6ekUzjItnjP6T7I9r1WMA?sub_confirmation=1 "WH-ApkCrypter v2 | google play protect Bypass 100% | wh-Cyberspace ( PC )")
 
-[![IMAGE 1](https://raw.githubusercontent.com/wh-Cyberspace/WH-Encryptor/master/img/5.png?token=ALOA53ZLMZSBSSJBPBSEQN263OKXA)](https://www.youtube.com/channel/UCj6ekUzjItnjP6T7I9r1WMA?sub_confirmation=1 "WH-ApkCrypter v2 | google play protect Bypass 100% | wh-Cyberspace ( PC )")
+[![IMAGE 1](https://raw.githubusercontent.com/wh-Cyberspace/WH-Encryptor/master/img/5.png)](https://www.youtube.com/channel/UCj6ekUzjItnjP6T7I9r1WMA?sub_confirmation=1 "WH-ApkCrypter v2 | google play protect Bypass 100% | wh-Cyberspace ( PC )")
 
 
 
