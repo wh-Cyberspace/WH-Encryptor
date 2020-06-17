@@ -57,9 +57,14 @@ WH-Encryptor v3
 
 For License key , Check our facebook Page [Here]( https://www.facebook.com/wh.hackerexploit/ " License key")
 
-Price : $60/=
+OR 
 
-default payment section ( BITCOIN )
+Check our Telegram [Here]( https://t.me/whcyberspace/ " License key")
+
+
+Price : $60.00/=
+
+default payment section ( BITCOIN or paypal )
 
 
 
