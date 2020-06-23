@@ -9,7 +9,7 @@
 
 <br>
 
-# NOTE :    [  All Update versions available here    ]
+# recommended :    [  All Update versions available here    ]
 
 ☆ WH ENCRYPTOR V3.2 > [Here]( https://mega.nz/file/xUs12LZC#L9pj1eC8F59i2K5eF8Azj88DFi56OLvDNjKUyrFC-Hs " WH ENCRYPTOR")
 
