@@ -9,6 +9,12 @@
 
 <br>
 
+# NOTE :    [  All Update versions available here    ]
+
+☆ WH ENCRYPTOR V3.2 > [Here]( https://mega.nz/file/xUs12LZC#L9pj1eC8F59i2K5eF8Azj88DFi56OLvDNjKUyrFC-Hs " WH ENCRYPTOR")
+
+<br>
+
 # 🏳 WH-Cyberspace (WH-Encryptor) 🔞
 Usage of WH-Cyberspace Hacking Tool for attacking targets without prior mutual  consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program. Only use for educational purposes. 
 
