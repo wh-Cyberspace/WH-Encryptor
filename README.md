@@ -77,17 +77,10 @@ default payment section ( BITCOIN or paypal )
 ------------------------------------------------------------------------------------------------------------------------------
 # Virus Total INFO..
 
-WINDOWS [Here]( https://www.virustotal.com/gui/file/92dc3f90912a762f2d73a57264a2db4029833453bedd58cfc4d1a178578844bf/detection " WINDOWS INFO")
 
-ANDROID [Here]( https://www.virustotal.com/gui/file/896dcd2f4b832629421a1b4c50d39f46cac7af633b5acd846323d40499357e06/detection " ANDROID INFO")
+[![IMAGE 1](https://raw.githubusercontent.com/wh-Cyberspace/WH-Encryptor/master/img/Screenshot_2020-05-28%20VirusTotal.png)](# "Don't upload payload inbuilt Antivirus website")
 
-# 🌌 Screenshot:
-
-
-
-[![IMAGE 1](https://raw.githubusercontent.com/wh-Cyberspace/WH-Encryptor/master/img/Screenshot_2020-05-28%20VirusTotal.png)](https://www.virustotal.com/gui/file/9c715433783f128240c8a3c00538d1e4f8ec724fb070f54ab750f9856ee79ea0/detection "Don't upload payload inbuilt Antivirus website")
-
-[![IMAGE 1](https://raw.githubusercontent.com/wh-Cyberspace/WH-Encryptor/master/img/Screenshot_2020-06-06%20VirusTotal.png)](https://www.virustotal.com/gui/file/896dcd2f4b832629421a1b4c50d39f46cac7af633b5acd846323d40499357e06/detection "Don't upload payload inbuilt Antivirus website")
+[![IMAGE 1](https://raw.githubusercontent.com/wh-Cyberspace/WH-Encryptor/master/img/Screenshot_2020-06-06%20VirusTotal.png)](d "Don't upload payload inbuilt Antivirus website")
 
 
 
