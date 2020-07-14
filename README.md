@@ -11,7 +11,7 @@
 
 # recommended :    [  All Update versions available here    ]
 
-☆ WH ENCRYPTOR V3.3 > [Here]( https://mega.nz/file/EE0A1ayT#SfmcZoksMww9Yb0dh4WJRoijmWxlWAoZ5TRwfY3I1jQ " WH ENCRYPTOR")
+☆ WH ENCRYPTOR V3.3 > [Here]( https://mega.nz/file/RcsnWLSb#duDpwdYXj_CLN7yT_vq80v_m1yS1-iQ4qr8KP8MwT9Q " WH ENCRYPTOR")
 
 <br>
 
