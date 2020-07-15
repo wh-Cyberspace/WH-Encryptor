@@ -74,6 +74,11 @@ default payment section ( BITCOIN or paypal )
 
 
 
+or
+Official  Facebook page : https://facebook.com/wh.hackerexploit
+
+Official Telegrams Group:  https://t.me/whcyberspace
+
 ------------------------------------------------------------------------------------------------------------------------------
 # Virus Total INFO..
 
