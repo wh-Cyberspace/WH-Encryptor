@@ -68,7 +68,7 @@ OR
 More Shop [Here]( https://sellix.io/whcyberspace " License key")
 
 
-Price : $60.00/=
+Price : $66.00/=
 
 default payment section ( BITCOIN or paypal )
 
