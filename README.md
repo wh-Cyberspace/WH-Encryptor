@@ -80,14 +80,6 @@ Official  Facebook page : https://facebook.com/wh.hackerexploit
 Official Telegrams Group:  https://t.me/whcyberspace
 
 ------------------------------------------------------------------------------------------------------------------------------
-# Virus Total INFO..
-
-
-[![IMAGE 1](https://raw.githubusercontent.com/wh-Cyberspace/WH-Encryptor/master/img/Screenshot_2020-05-28%20VirusTotal.png)](# "Don't upload payload inbuilt Antivirus website")
-
-[![IMAGE 1](https://raw.githubusercontent.com/wh-Cyberspace/WH-Encryptor/master/img/Screenshot_2020-06-06%20VirusTotal.png)](d "Don't upload payload inbuilt Antivirus website")
-
-
 
 
 
